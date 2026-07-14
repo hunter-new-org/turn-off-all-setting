@@ -1,2 +1,3 @@
 *.xlsx filter=lfs diff=lfs merge=lfs -text
 test_170mb.ts filter=lfs diff=lfs merge=lfs -text
+test_170mb.js filter=lfs diff=lfs merge=lfs -text
